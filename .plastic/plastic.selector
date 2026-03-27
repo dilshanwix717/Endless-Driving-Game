@@ -1,0 +1,4 @@
+repository "CarGame3D/CarGame3D@18968400039635@cloud"
+  path "/"
+    br "/main"
+    co "/main"
